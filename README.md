@@ -1,5 +1,5 @@
 # Hi there, I'm Lauro Flores! 👋
-### Front-End Developer | Next.js Specialist | UI/UX Enthusiast
+### Front-End|Full Stack Developer | Next.js Specialist | UI/UX Enthusiast
 
 I'm a **Computer Science Graduate (2025)** based in Brazil, focused on building high-performance web applications with modern interfaces. I have a passion for creating solutions that blend complex logic with pixel-perfect design.
 
