@@ -1,13 +1,15 @@
 # Hi there, I'm Lauro Flores! 👋
-### Front-End|Full Stack Developer | Next.js Specialist | UI/UX Enthusiast
+### Full Stack Developer | React, Next.js, Python, AWS | AI Integrations
 
-I'm a **Computer Science Graduate (2025)** based in Brazil, focused on building high-performance web applications with modern interfaces. I have a passion for creating solutions that blend complex logic with pixel-perfect design.
+I'm a **Computer Science graduate (UVV, 2025)** based in Brazil, building full stack web applications, serverless back ends on AWS and generative AI features.
 
-- 🔭 I’m currently working on **Full Stack specialized projects**
-- 🎓 **Education:** Bachelor in Computer Science at UVV (Class Representative)
-- 💬 **Ask me about:** React, Next.js, TypeScript, and UI Design
+Currently a **Full Stack Developer at [Futurai](https://www.futurai.com.br)**, working on a predictive AI platform that helps large manufacturers anticipate equipment failures before they cause downtime.
+
+- 💼 **Now:** React/TypeScript front ends, Python APIs, AWS serverless (Lambda, DynamoDB, Step Functions) and LLM integrations
+- 🎓 **Education:** B.Sc. in Computer Science at UVV (Class Representative)
+- 💬 **Ask me about:** React, Next.js, TypeScript, Python, AWS, AI integrations
 - 📫 **Reach me at:** [lauroportfolio@gmail.com](mailto:lauroportfolio@gmail.com)
-- ⚡ **Fun fact:** I love football, gym, and I'm a bilingual dev (PT/EN) learning German!
+- ⚡ **Fun fact:** I love football and the gym, and I'm fluent in Portuguese and English while learning German!
 
 ---
 
@@ -18,12 +20,23 @@ I'm a **Computer Science Graduate (2025)** based in Brazil, focused on building 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Back-End & Tools:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Back-End & Data:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Cloud & AI:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-%23E7157B.svg?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%23412991.svg?style=for-the-badge&logoColor=white)
+
+**Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -32,18 +45,18 @@ I'm a **Computer Science Graduate (2025)** based in Brazil, focused on building 
 ## 🚀 Featured Projects
 
 ### 🎮 PlaySphere
-**A Niche Social Network for Gamers & Sports Enthusiasts.**
-A full-stack social media application featuring a custom algorithm for community management and user safety.
-- **Tech for Good:** Implemented a hate-speech filtering system and suicide prevention logic that connects at-risk users to support NGOs.
-- **Features:** Custom Communities, Real-time Notifications, Responsive UI with Toasters for feedback, and Pagination.
+**A niche social network for gamers and sports enthusiasts.**
+A full stack social media app with custom community management and user safety features.
+- **Tech for Good:** hate-speech filtering and a safety feature that detects at-risk users and connects them to support NGOs.
+- **Features:** custom communities, real-time notifications, pagination and a responsive UI with toast feedback.
 - **Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS.
 
 ### 🎤 Palestrix
-**Lecture & Event Management System.**
-A platform designed to enhance interaction between speakers and students during academic events.
-- **Real-Time Q&A:** Ranking algorithm where most voted questions rise to the top.
-- **Analytics:** Speakers receive instant performance charts/graphs after the session based on student feedback.
-- **Stack:** Next.js, TypeScript, Charting Libraries.
+**Lecture and event management system.**
+A platform that improves interaction between speakers and students during academic events.
+- **Real-time Q&A:** a ranking algorithm that pushes the most-voted questions to the top.
+- **Analytics:** speakers get performance charts right after the session, based on student feedback.
+- **Stack:** Next.js, TypeScript, charting libraries.
 
 ---
 
@@ -58,9 +71,9 @@ A platform designed to enhance interaction between speakers and students during 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lauro-flores" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lauroportfolio@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
